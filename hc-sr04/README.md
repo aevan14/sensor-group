@@ -7,6 +7,9 @@
 - Board: ESP32 (DOIT DEVKIT V1)
 - Additional: Jumper cable/PCB board
 
+## 💻 Software
+- This code was written using the text editor Arduino IDE 2.3.2.
+
 ## 📝 Wiring  
 | Sensor |  Board  |  
 |--------|---------|  
