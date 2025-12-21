@@ -1,5 +1,8 @@
 # HC-SR04 Distance Logger  
 
+COBA2 - HEHE
+MENCOBA EDITING COBA 2 HEEH
+📌 **ABC**
 📌 **Function**: Distance reading using ultrasonic method in cm and inch unit.  
 
 ## 🛠️ Hardware  
