@@ -16,11 +16,3 @@ Sensor mini-project code collection.
 3. See the `README.md` in each folder for specific instructions.
 
 💡 **Lisensi**: [MIT](/LICENSE) - Free to use!
-
-## 📋 List Sensor1
-
-## 📋 List Sensor2
-
-## 📋 List Sensor3
-
-## 📋 List Sensor4
